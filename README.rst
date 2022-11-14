@@ -1,4 +1,0 @@
-aquilo-sspl
-###########
-
-Hello!
