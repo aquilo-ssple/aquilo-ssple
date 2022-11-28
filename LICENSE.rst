@@ -19,7 +19,7 @@ Under this license, you’re free to:
 * Share: copy and redistribute the material in any medium or format
 * Adapt: remix, transform, and build upon the material for any purpose, even commercially.
 
-I, the licensor, ( Alexander Mann-Wahrenberg, the creators of Aquilo SSPLE) cannot (and surely will not) revoke these freedoms as long as you follow the license terms.
+I, the licensor, (Alexander Mann-Wahrenberg, the creators of Aquilo SSPLE) cannot (and surely will not) revoke these freedoms as long as you follow the license terms.
 
 You must give appropriate credit, provide a link to the license, and indicate if changes to arc42 were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
