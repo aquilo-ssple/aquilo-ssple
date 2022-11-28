@@ -16,8 +16,8 @@ The Aquilo SSPLE framework is licensed under the Creative Commons Attribution-Sh
 
 Under this license, you’re free to:
 
-* Share: copy and redistribute the material in any medium or format
-* Adapt: remix, transform, and build upon the material for any purpose, even commercially.
+* Share: Copy and redistribute the material in any medium or format.
+* Adapt: Remix, transform, and build upon the material for any purpose, even commercially.
 
 I, the licensor, (Alexander Mann-Wahrenberg, the creators of Aquilo SSPLE) cannot (and surely will not) revoke these freedoms as long as you follow the license terms.
 
